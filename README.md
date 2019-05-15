@@ -1,10 +1,10 @@
-##Create markup using
+## Create markup using
 
 1. **float, inline-block** (without flex/grid)
 2. **flex**
 3. **grid**
 
-###Rules:
+### Rules:
 ```
 1. Logo should be 100px x 100px
 2. Menu should fill all other space in a row, never mind what the screen is, height also 100px
